@@ -4,8 +4,7 @@ It contains the prolog code for finding all paths between start and finish point
 * **all path** : Given a maze it finds all path between all start and end points.
 * **optimal path** : Given a maze it finds all optimal path between all start and end points.
 
-![The Maze](http://https://github.com/paritoshmittal12/prolog/Task3/Maze.png)
-
+![maze](https://user-images.githubusercontent.com/16051249/32354130-58a6b7b0-c04e-11e7-8bcb-76ea59a31c76.png)
 The below fact is used to code the maze to be used by prolog for making judgements. It indicates you can move from 1 -->  2.
 ```
 canMove(1,2).
